@@ -1,0 +1,1 @@
+export const API_URL = "https://homly-dev-779cd8cb920f.herokuapp.com/api/v1/auth"
